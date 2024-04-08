@@ -85,7 +85,7 @@ public class EnemySpawner {
                 break;
             case E_ONEWAY:
             default:
-                e = new EnemyShip(gameRect, enemyImage, TICKSxFRAME);
+                e = new EnemyShipMartin(gameRect, enemyImage, TICKSxFRAME);
                 break;
         }
         if (shot == E_SHOT_GUN){
