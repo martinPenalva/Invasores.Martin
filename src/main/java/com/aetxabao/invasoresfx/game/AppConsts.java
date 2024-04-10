@@ -32,8 +32,8 @@ public final class AppConsts {
     static final Image ENEMYSHIP_SPRITE_IMAGE_1 = new Image(Main.class.getResource("sprite/ei1.png").toString());
     static final Image ENEMYSHIP_SPRITE_IMAGE_2 = new Image(Main.class.getResource("sprite/ei2.png").toString());
     static final Image ENEMYSHIP_SPRITE_IMAGE_3 = new Image(Main.class.getResource("sprite/ei3.png").toString());
-    static final Image ENEMYBARRIER4_SPRITE_IMAGE = new Image(Main.class.getResource("sprite/barrier4.png").toString());
-    static final Image ENEMYTOWER3_SPRITE_IMAGE = new Image(Main.class.getResource("sprite/tower3.png").toString());
+    static final Image DIABLO_SPRITE_IMAGE = new Image(Main.class.getResource("sprite/diablo.png").toString());
+    static final Image DINO_SPRITE_IMAGE = new Image(Main.class.getResource("sprite/dino.png").toString());
     //endregion
 
     //region GameManager
@@ -81,7 +81,7 @@ public final class AppConsts {
     //region EnemyShip
     public static final int ENEMYSHIP_ROWS = 1;
     public static final int ENEMYSHIP_COLS = 6;
-    public static final int ENEMYSHIP_MAX_SPEED = 5;
+    public static int ENEMYSHIP_MAX_SPEED = 5;
     public static final double ENEMYSHIP_ALFA = 0.75;
     //endregion
 

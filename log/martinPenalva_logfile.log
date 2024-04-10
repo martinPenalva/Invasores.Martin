@@ -111,3 +111,390 @@
 [2024-04-08 11:51:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
 [2024-04-08 11:51:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
 [2024-04-08 11:51:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:20:38] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:20:40] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:20:52] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:20:58] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:20:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:20:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:20:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:20:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:06] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:21:15] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=8 shotsDown=1 shotsUp=1
+[2024-04-09 11:21:29] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:21:34] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=2 shotsUp=0
+[2024-04-09 11:21:35] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:21:39] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=1 shotsDown=1 shotsUp=0
+[2024-04-09 11:21:41] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:21:48] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=9 shotsUp=9
+[2024-04-09 11:21:49] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-09 11:22:00] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:22:08] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:22:08] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:08] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:08] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:08] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:15] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=10 shotsUp=10
+[2024-04-09 11:22:15] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-09 11:22:25] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:25] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:31] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=8 shotsDown=1 shotsUp=1
+[2024-04-09 11:22:32] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:22:42] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=0 shotsDown=7 shotsUp=8
+[2024-04-09 11:22:42] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-09 11:22:42] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:22:54] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:22:54] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:54] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:54] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:22:54] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:23:25] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=7 shotsDown=8 shotsUp=8
+[2024-04-09 11:23:25] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:23:39] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=1 shotsDown=7 shotsUp=8
+[2024-04-09 11:25:46] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:25:49] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:25:56] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:26:13] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:26:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:22] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:26:35] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=4 shotsUp=1
+[2024-04-09 11:26:37] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:27:08] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=0 shotsUp=0
+[2024-04-09 11:27:09] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:28:06] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=1 shotsDown=0 shotsUp=0
+[2024-04-09 11:28:08] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:28:15] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:28:24] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:28:24] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:24] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:24] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:24] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:37] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:28:49] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=5 shotsUp=5
+[2024-04-09 11:28:50] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:29:37] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:29:46] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:29:48] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:29:57] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=11 shotsUp=11
+[2024-04-09 11:29:57] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-09 11:30:01] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=11 shotsUp=11
+[2024-04-09 11:30:01] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-09 11:30:24] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:30:30] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=2 shotsDown=9 shotsUp=10
+[2024-04-09 11:30:31] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:30:36] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=12 shotsUp=12
+[2024-04-09 11:30:36] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-09 11:30:53] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:31:16] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:31:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:16] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:36] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:31:41] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=8 shotsDown=2 shotsUp=1
+[2024-04-09 11:31:41] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-09 11:32:58] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:33:00] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:33:09] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=12 shotsUp=11
+[2024-04-09 11:33:09] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-09 11:33:14] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:33:32] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:33:32] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:32] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:32] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:32] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:33:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:12] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:35:15] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:35:22] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:35:30] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:35:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:36] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=4 shotsDown=10 shotsUp=10
+[2024-04-09 11:35:37] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-09 11:35:41] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=4 shotsDown=2 shotsUp=1
+[2024-04-09 11:35:42] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-09 11:35:53] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:35:53] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:01] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=8 shotsDown=4 shotsUp=3
+[2024-04-09 11:36:03] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:36:11] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:36:18] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:36:18] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:18] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:18] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:18] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:36:26] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:39:45] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:40:00] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-09 11:40:02] [DEBUG] [GameManager: 51] start level=1
+[2024-04-09 11:40:18] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-09 11:40:22] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=4 shotsDown=11 shotsUp=10
+[2024-04-09 11:40:22] [DEBUG] [GameManager: 69] sameLevel level=2
+[2024-04-09 11:40:31] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-09 11:40:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:40:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:40:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:40:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:40:42] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-09 11:40:42] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-09 11:40:54] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=6 shotsUp=6
+[2024-04-10 10:38:10] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 10:38:15] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 10:38:22] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 10:38:33] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 10:38:33] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:38:33] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:38:33] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:38:33] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:38:40] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 10:38:40] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:38:52] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=7 shotsUp=6
+[2024-04-10 10:43:07] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 10:43:09] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 10:43:13] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=11 shotsUp=10
+[2024-04-10 10:43:13] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-10 10:43:38] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 10:44:00] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 10:44:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:44:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:44:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:44:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:44:09] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 10:44:09] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:44:17] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=7 shotsUp=6
+[2024-04-10 10:45:49] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 10:45:51] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 10:46:05] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 10:46:13] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 10:46:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:46:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:46:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:46:13] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 10:46:21] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:00:30] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 11:00:35] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:00:40] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=14 shotsUp=13
+[2024-04-10 11:00:40] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-10 11:00:48] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:01:00] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:01:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:00] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:11] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:01:20] [DEBUG] [GameManager: 61] nextLevel level=5
+[2024-04-10 11:01:31] [DEBUG] [GameManager: 61] nextLevel level=6
+[2024-04-10 11:01:39] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=8 shotsUp=8
+[2024-04-10 11:01:39] [DEBUG] [GameManager: 69] sameLevel level=6
+[2024-04-10 11:01:55] [DEBUG] [GameManager: 61] nextLevel level=7
+[2024-04-10 11:01:55] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:55] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:55] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:01:55] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:02:04] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=1 shotsDown=4 shotsUp=3
+[2024-04-10 11:02:05] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:02:16] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:02:30] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:02:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:02:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:02:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:02:30] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:02:45] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:02:50] [DEBUG] [GameManager: 61] nextLevel level=5
+[2024-04-10 11:03:18] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=0 shotsUp=0
+[2024-04-10 11:08:57] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 11:08:59] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:09:15] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:09:29] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:09:29] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:09:29] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:09:29] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:09:29] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:09:38] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=9 shotsUp=9
+[2024-04-10 11:09:39] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-10 11:09:46] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:10:02] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=11 shotsDown=1 shotsUp=1
+[2024-04-10 11:11:00] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 11:11:10] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:11:18] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:11:22] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=5 shotsDown=14 shotsUp=13
+[2024-04-10 11:11:22] [DEBUG] [GameManager: 69] sameLevel level=2
+[2024-04-10 11:11:31] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:11:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:11:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:11:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:11:31] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:11:41] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:12:38] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=0 shotsUp=0
+[2024-04-10 11:13:12] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 11:13:14] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:13:26] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:13:34] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:13:34] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:13:34] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:13:34] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:13:34] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:13:48] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=11 shotsUp=10
+[2024-04-10 11:13:50] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-10 11:13:57] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:14:05] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=12 shotsDown=8 shotsUp=4
+[2024-04-10 11:14:05] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-10 11:22:50] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 11:22:51] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:23:05] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:23:11] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:23:11] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:23:11] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:23:11] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:23:11] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:23:17] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=8 shotsUp=8
+[2024-04-10 11:23:17] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-10 11:23:33] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:23:35] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=40 shotsDown=0 shotsUp=1
+[2024-04-10 11:23:35] [DEBUG] [GameManager: 69] sameLevel level=4
+[2024-04-10 11:24:05] [DEBUG] [GameManager: 61] nextLevel level=5
+[2024-04-10 11:24:41] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 11:24:42] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 11:24:51] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 11:24:58] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 11:24:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:24:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:24:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:24:58] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:25:07] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=9 shotsUp=8
+[2024-04-10 11:25:07] [DEBUG] [GameManager: 69] sameLevel level=3
+[2024-04-10 11:25:12] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 11:26:46] [DEBUG] [GameManager: 61] nextLevel level=5
+[2024-04-10 11:26:53] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=0 shotsDown=8 shotsUp=13
+[2024-04-10 11:26:53] [DEBUG] [GameManager: 69] sameLevel level=5
+[2024-04-10 11:26:53] [DEBUG] [GameManager: 61] nextLevel level=6
+[2024-04-10 11:27:04] [DEBUG] [GameManager: 61] nextLevel level=7
+[2024-04-10 11:27:04] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:27:04] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:27:04] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:27:04] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 11:27:13] [DEBUG] [GameManager: 61] nextLevel level=8
+[2024-04-10 11:27:42] [DEBUG] [GameManager:198] updateGame E_APP_LOST enemies=34 shotsDown=0 shotsUp=0
+[2024-04-10 12:02:35] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 12:02:42] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 12:02:50] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 12:02:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:02:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:02:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:02:50] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:02:57] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 12:03:33] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 12:03:35] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 12:03:41] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=2 shotsDown=5 shotsUp=2
+[2024-04-10 12:09:09] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 12:09:10] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 12:09:14] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=13 shotsUp=14
+[2024-04-10 12:09:14] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-10 12:09:19] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=1 shotsDown=16 shotsUp=15
+[2024-04-10 12:09:20] [DEBUG] [GameManager: 69] sameLevel level=1
+[2024-04-10 12:09:25] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 12:09:42] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 12:09:42] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:09:42] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:09:42] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:09:42] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:09:59] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 12:10:28] [DEBUG] [GameManager: 61] nextLevel level=5
+[2024-04-10 12:19:38] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 12:19:39] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 12:19:52] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 12:19:59] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 12:19:59] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:19:59] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:19:59] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:19:59] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:20:06] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 12:20:55] [DEBUG] [GameManager: 61] nextLevel level=5
+[2024-04-10 12:21:24] [DEBUG] [GameManager:200] updateGame E_APP_ONELESSLIFE enemies=3 shotsDown=0 shotsUp=0
+[2024-04-10 12:23:11] [INFO ] [AppInvasoresFx: 52] --------------------------------------------------------------------------------
+[2024-04-10 12:23:13] [DEBUG] [GameManager: 51] start level=1
+[2024-04-10 12:23:21] [DEBUG] [GameManager: 61] nextLevel level=2
+[2024-04-10 12:23:28] [DEBUG] [GameManager: 61] nextLevel level=3
+[2024-04-10 12:23:28] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:23:28] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:23:28] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:23:28] [DEBUG] [EnemyShipDiagonal: 11] EnemyShipDiagonal N=3
+[2024-04-10 12:23:35] [DEBUG] [GameManager: 61] nextLevel level=4
+[2024-04-10 12:24:24] [DEBUG] [GameManager: 61] nextLevel level=5

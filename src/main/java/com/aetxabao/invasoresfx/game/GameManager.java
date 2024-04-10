@@ -2,7 +2,6 @@ package com.aetxabao.invasoresfx.game;
 
 import com.aetxabao.invasoresfx.sprite.*;
 import com.aetxabao.invasoresfx.sprite.AEnemy;
-import com.aetxabao.invasoresfx.sprite.EnemyShip;
 import com.aetxabao.invasoresfx.sprite.EnemyShipGroup;
 import com.aetxabao.invasoresfx.sprite.IHaveShield;
 import com.aetxabao.invasoresfx.sprite.weaponry.AShot;

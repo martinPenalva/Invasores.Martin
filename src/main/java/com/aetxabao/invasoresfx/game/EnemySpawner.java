@@ -85,7 +85,7 @@ public class EnemySpawner {
                 break;
             case E_ONEWAY:
             default:
-                e = new EnemyShipMartin(gameRect, enemyImage, TICKSxFRAME);
+                e = new EnemyShip(gameRect, enemyImage, TICKSxFRAME);
                 break;
         }
         if (shot == E_SHOT_GUN){
@@ -145,14 +145,135 @@ public class EnemySpawner {
     }
     public static List<AEnemy> Ejemplo (Rect gameRect) {
         List<AEnemy> enemies = new ArrayList<>();
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 1, 1, vx, 2, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 0, 0, vx, 0, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 0, 0, vx, vy, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 0, 0, -vx, vy, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 0, 0, -vx, vy, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 1, 1, vx, vy, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 2, 2, vx, vy, E_SHOT_GUN));
-        enemies.add(createEnemyShip(E_ONEWAY, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 3, 1, vx, vy, E_SHOT_GUN));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 3, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 4, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 5, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 6, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 7, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 8, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 9, vx, 2, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 5, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 6, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 7, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 8, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_NORMAL, DIABLO_SPRITE_IMAGE, gameRect, 4, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 6, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 7, 9, vx, 3, E_SHOT_NOTHING));
+        enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 8, 9, vx, 3, E_SHOT_NOTHING));
+
+
+
+        enemies.add(createEnemyShip(E_NORMAL, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 0, 0, vx, 0, E_SHOT_GUN));
+        enemies.add(createEnemyShip(E_NORMAL, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 1, 1, vx, 1, E_SHOT_GUN));
+
+
+
+
 
         return enemies;
     }
