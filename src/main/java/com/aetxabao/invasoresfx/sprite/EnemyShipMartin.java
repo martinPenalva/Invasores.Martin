@@ -12,7 +12,7 @@ import static com.aetxabao.invasoresfx.game.AppConsts.*;
 import static com.aetxabao.invasoresfx.game.AppConsts.ENEMYSHIP_ALFA;
 
 
-public class EnemyShipMartin extends AEnemy {
+public class EnemyShipMartin extends AEnemy implements Martin {
 
     int N;//ticks para cambio de frame
     int n;
@@ -59,4 +59,13 @@ public class EnemyShipMartin extends AEnemy {
                 dst.left, dst.top, dst.width(), dst.height());
     }
 
+    @Override
+    public boolean impact() {
+        return false;
+    }
+
+    @Override
+    public void cambio() {
+
+    }
 }

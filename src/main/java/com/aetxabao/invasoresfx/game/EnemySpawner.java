@@ -58,7 +58,7 @@ public class EnemySpawner {
                 break;
             case 4:
             default:
-                enemies = Ejemplo(gameRect);
+                enemies = crearEnemigosNivelMartin(gameRect);
                 break;
 
 
@@ -143,7 +143,7 @@ public class EnemySpawner {
         enemies.add(createEnemyShip(E_DIAGONAL, ENEMYSHIP_SPRITE_IMAGE_2, gameRect, 4, 0, vx, vy, E_SHOT_NOTHING));
         return enemies;
     }
-    public static List<AEnemy> Ejemplo (Rect gameRect) {
+    public static List<AEnemy> crearEnemigosNivelMartin(Rect gameRect) {
         List<AEnemy> enemies = new ArrayList<>();
         enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 4, 3, vx, 2, E_SHOT_NOTHING));
         enemies.add(createEnemyShip(E_ONEWAY, DIABLO_SPRITE_IMAGE, gameRect, 5, 3, vx, 2, E_SHOT_NOTHING));
